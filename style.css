@@ -61,3 +61,7 @@ body {
 #cardPreview {
     background-color: wheat;
 }
+
+.trelloColumn > .trelloCard {
+    margin: 5%;
+}
